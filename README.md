@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lucas Thorne
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Computer Science at College of the Holy Cross in Worcester MA
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me at lucas5thorne@gmail.com
